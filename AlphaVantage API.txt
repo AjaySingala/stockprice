@@ -1,0 +1,9 @@
+Welcome to Alpha Vantage! Your dedicated access key is: 2K30K29WEZ1S23Z3. Please record this API key at a safe place for future data access.
+
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=demo
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=2K30K29WEZ1S23Z3
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=2K30K29WEZ1S23Z
+https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=BSE:SBIN&apikey=2K30K29WEZ1S23Z
+
+https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=affle&apikey=2K30K29WEZ1S23Z
+https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=500400.BSE&apikey=2K30K29WEZ1S23Z
